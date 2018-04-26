@@ -1,0 +1,20 @@
+{
+  "name": "hw8",
+  "version": "0.0.0",
+  "description": "CSCI 571 - Homework 8",
+  "main": "server.js",
+  "author": "Anupama",
+  "dependencies": {
+    "angular-animate": "1.6.9",
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "moment": "^2.21.0",
+    "morgan": "~1.2.2",
+    "npm": "^5.8.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
+}
